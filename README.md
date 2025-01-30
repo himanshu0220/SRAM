@@ -61,3 +61,5 @@ This project significantly enhanced my knowledge of digital memory systems and R
 # Testbench and Simulation
 
 ![Image](https://github.com/user-attachments/assets/49eaf608-3224-4b85-97d1-2047e8bb00e6)
+![Simulation](https://github.com/user-attachments/assets/4d283194-9dd3-4fec-ae20-7a7a3cb13e27)
+
